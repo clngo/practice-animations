@@ -433,7 +433,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='9'/><level id='1'/><level id='2'/><level id='4'/><level id='5'/><level id='8'/><level id='6'/><level id='3'/><level id='7'/>
+        <level id='2'/><level id='7'/><level id='9'/><level id='4'/><level id='5'/><level id='3'/><level id='6'/><level id='8'/><level id='1'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -444,7 +444,7 @@
       <levelColumn id='10'>
         
         <status>
-          9 
+          11 
         </status>
         <cells>
           <cell>
@@ -482,7 +482,7 @@
       <levelColumn id='12'>
         
         <status>
-          9 
+          11 
         </status>
         <cells>
           <cell>
@@ -558,7 +558,7 @@
       <levelColumn id='16'>
         
         <status>
-          9 
+          11 
         </status>
         <cells>
           <cell>
@@ -608,7 +608,7 @@
       <levelColumn id='18'>
         
         <status>
-          0 
+          2 
         </status>
         <cells>
           <cell>
@@ -658,7 +658,7 @@
       <levelColumn id='20'>
         
         <status>
-          9 
+          11 
         </status>
         <cells>
           <cell>
@@ -710,6 +710,9 @@
               </params>
             <ports>
               </ports>
+            <dagNodePos>
+              25005 24705 
+            </dagNodePos>
             <numberId>
               0 
             </numberId>
@@ -1121,7 +1124,7 @@
           </default>
           </sc>
         <nodePos>
-          1.234e+09 5.678e+09 
+          24620 25200 
         </nodePos>
         </pegbar>
       <grid_dimension>
@@ -1131,16 +1134,13 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='21'/>
+          <Toonz_columnFx id='23'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='11'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='17'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='19'/>
+          <Toonz_columnFx id='21'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='13'/>
@@ -1149,7 +1149,10 @@
           <Toonz_columnFx id='15'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='23'/>
+          <Toonz_columnFx id='17'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='19'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -1219,5 +1222,6 @@
     "| #3   21 Mar 25   12:31   DESKTOP-J8J4mrcol           |"
     "| #4   21 Mar 25   13:51   DESKTOP-J8J4mrcol           |"
     "| #5   21 Mar 25   23:57   DESKTOP-J8J4mrcol           |"
+    "| #6   22 Mar 25   19:47   COLIN       mrcol           |"
   </history>
   </tnz>

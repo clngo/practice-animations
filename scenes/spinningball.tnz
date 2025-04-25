@@ -37,7 +37,7 @@
           24 
         </fps>
         <path>
-          "+outputs\\.tif"
+          "+outputs\\..tif"
         </path>
         <bpp>
           32 
@@ -448,6 +448,9 @@
               </params>
             <ports>
               </ports>
+            <dagNodePos>
+              25005 24905 
+            </dagNodePos>
             <numberId>
               0 
             </numberId>
@@ -642,7 +645,7 @@
           </default>
           </sc>
         <nodePos>
-          1.234e+09 5.678e+09 
+          24620 25400 
         </nodePos>
         </pegbar>
       <pegbar id="Col3">
@@ -686,10 +689,10 @@
           <Toonz_columnFx id='7'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='5'/>
+          <Toonz_columnFx id='9'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='9'/>
+          <Toonz_columnFx id='5'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -756,5 +759,6 @@
     "| #    DATE:       Time:   MACHINE:    USER:           |"
     "| #1   16 Mar 25   12:33   DESKTOP-J8J4mrcol           |"
     "| #2   17 Mar 25   14:44   DESKTOP-J8J4mrcol           |"
+    "| #3   23 Mar 25   12:45   COLIN       mrcol           |"
   </history>
   </tnz>

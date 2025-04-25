@@ -1,4 +1,4 @@
-<tnz framecount="32" version="71.1">
+<tnz framecount="16" version="71.1">
   <generator>
     "OpenToonz 1.7.1"
   </generator>
@@ -114,7 +114,7 @@
         </output>
       <output name="preview">
         <range>
-          0 31 
+          0 15 
         </range>
         <step>
           1 
@@ -438,7 +438,7 @@
         </status>
         <cells>
           <cell>
-            0 2 <level id='3'/>0001 1 
+            0 16 <level id='3'/>0001 1 
           </cell>
           </cells>
         <fx>
@@ -473,7 +473,7 @@
         </status>
         <cells>
           <cell>
-            0 32 <level id='2'/>0001 0 
+            0 16 <level id='2'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -755,6 +755,6 @@
   <history>
     "| #    DATE:       Time:   MACHINE:    USER:           |"
     "| #1   16 Mar 25   12:33   DESKTOP-J8J4mrcol           |"
-    "| #2   17 Mar 25   14:41   DESKTOP-J8J4mrcol           |"
+    "| #2   17 Mar 25   14:44   DESKTOP-J8J4mrcol           |"
   </history>
   </tnz>
