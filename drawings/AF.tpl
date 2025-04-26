@@ -10,6 +10,9 @@
     <style>
       color_1 4001 "experimental\\basic.myb"0 0 0 255 0 
     </style>
+    <style>
+      color_14 3 189 150 107 255 
+    </style>
     </styles>
   <stylepages>
     <page>
@@ -17,12 +20,12 @@
         colors 
       </name>
       <indices>
-        0 1 
+        0 1 2 
       </indices>
       </page>
     </stylepages>
   <shortcuts>
-    -1 0 1 -1 -1 -1 -1 -1 -1 -1 
+    -1 0 1 2 -1 -1 -1 -1 -1 -1 
   </shortcuts>
   
 </palette>
